@@ -1,1 +1,16 @@
-![Simulator Screen Shot - iPhone 8 - 2021-07-24 at 11 38 15](https://user-images.githubusercontent.com/34736746/126863198-d46e4543-09fd-4ef6-b62e-47428a343129.png)
+# todolist
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
